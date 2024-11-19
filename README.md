@@ -107,6 +107,3 @@ tweet();
 The above code will import the `twitterClient` and tweet out "Hello world!". You can now go to Twitter and check whether the tweet was actually sent.
 ```
 
-### Explanation of Changes:
-- Properly formatted code blocks and terminal commands for clarity.
-- Clarified some minor language issues, like ensuring consistency in referring to file names and commands.
