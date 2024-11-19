@@ -1,6 +1,4 @@
-Here is the improved and properly formatted MDX file:
 
-```mdx
 ## Step 1: Install Node
 
 I am assuming that if you are at the level of making Twitter Bots, you have Node installed. If not, you will need to install it.
